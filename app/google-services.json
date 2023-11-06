@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "317223974690",
+    "firebase_url": "https://formalapp-2764f-default-rtdb.firebaseio.com",
+    "project_id": "formalapp-2764f",
+    "storage_bucket": "formalapp-2764f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317223974690:android:dbfb9b335a9cd75eecd77b",
+        "android_client_info": {
+          "package_name": "wall.paper.hd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxW7JB625X5emXi-CW24fcFbw9tDLGEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
